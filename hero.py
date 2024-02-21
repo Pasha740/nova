@@ -1,2 +1,1 @@
-print('helo vorold')
-dfjf
+print('paiton')
